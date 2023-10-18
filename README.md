@@ -4,7 +4,7 @@ React + React-Router + TypeScript + Vite + Zustand + ESlint + Prettier + Husky
 
 Quick Start  ⚡
 ```
-$ git clone https://github.com/kriasoft/react-template.git example
+$ git clone https://github.com/BaiyanAlwaysOnline/react-template.git example
 $ cd ./example
 $ pnpm install
 $ pnpm dev
